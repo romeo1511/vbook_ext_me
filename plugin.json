@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "vBook",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "MangaShelf",
+      "author": "Chinh",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/nettruyen.com.vn.zip",
+      "version": 2,
+      "source": "http://192.168.31.136:1308",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/nettruyen.com.vn.png",
+      "description": "Đọc truyện trên trang của tôi",
+      "type": "manga",
+      "locale": "vi_VN"
+    }
+  ]
+}
